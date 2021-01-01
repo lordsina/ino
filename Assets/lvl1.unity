@@ -8634,7 +8634,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   caracter_controller: {fileID: 777158304}
-  turnSmoothTime: 0.1
+  cam: {fileID: 841118486}
+  turnSmoothTime: 0.2
 --- !u!143 &777158304
 CharacterController:
   m_ObjectHideFlags: 0
@@ -24518,7 +24519,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1671604847}
-  m_LocalRotation: {x: 0.18235362, y: -0.08921364, z: 0.016616777, w: 0.9790363}
+  m_LocalRotation: {x: 0.18235362, y: -0.089213684, z: 0.016616786, w: 0.9790363}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
